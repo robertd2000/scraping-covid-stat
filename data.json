@@ -1,0 +1,878 @@
+[
+    {
+        "country": "USA",
+        "count": "31,106,285"
+    },
+    {
+        "country": "Brazil",
+        "count": "12,664,058"
+    },
+    {
+        "country": "India",
+        "count": "12,203,953"
+    },
+    {
+        "country": "France",
+        "count": "4,585,385"
+    },
+    {
+        "country": "Russia",
+        "count": "4,545,095"
+    },
+    {
+        "country": "UK",
+        "count": "4,345,788"
+    },
+    {
+        "country": "Italy",
+        "count": "3,561,012"
+    },
+    {
+        "country": "Turkey",
+        "count": "3,277,880"
+    },
+    {
+        "country": "Spain",
+        "count": "3,275,819"
+    },
+    {
+        "country": "Germany",
+        "count": "2,816,046"
+    },
+    {
+        "country": "Colombia",
+        "count": "2,397,731"
+    },
+    {
+        "country": "Argentina",
+        "count": "2,332,765"
+    },
+    {
+        "country": "Poland",
+        "count": "2,321,717"
+    },
+    {
+        "country": "Mexico",
+        "count": "2,232,910"
+    },
+    {
+        "country": "Iran",
+        "count": "1,885,564"
+    },
+    {
+        "country": "Ukraine",
+        "count": "1,674,168"
+    },
+    {
+        "country": "South Africa",
+        "count": "1,546,735"
+    },
+    {
+        "country": "Peru",
+        "count": "1,540,077"
+    },
+    {
+        "country": "Czechia",
+        "count": "1,532,332"
+    },
+    {
+        "country": "Indonesia",
+        "count": "1,511,712"
+    },
+    {
+        "country": "Netherlands",
+        "count": "1,272,616"
+    },
+    {
+        "country": "Chile",
+        "count": "995,538"
+    },
+    {
+        "country": "Canada",
+        "count": "978,931"
+    },
+    {
+        "country": "Romania",
+        "count": "952,803"
+    },
+    {
+        "country": "Belgium",
+        "count": "876,842"
+    },
+    {
+        "country": "Iraq",
+        "count": "850,924"
+    },
+    {
+        "country": "Israel",
+        "count": "832,998"
+    },
+    {
+        "country": "Portugal",
+        "count": "821,722"
+    },
+    {
+        "country": "Sweden",
+        "count": "804,886"
+    },
+    {
+        "country": "Philippines",
+        "count": "747,288"
+    },
+    {
+        "country": "Pakistan",
+        "count": "667,957"
+    },
+    {
+        "country": "Hungary",
+        "count": "652,433"
+    },
+    {
+        "country": "Jordan",
+        "count": "611,577"
+    },
+    {
+        "country": "Bangladesh",
+        "count": "611,295"
+    },
+    {
+        "country": "Switzerland",
+        "count": "601,124"
+    },
+    {
+        "country": "Serbia",
+        "count": "600,596"
+    },
+    {
+        "country": "Austria",
+        "count": "546,229"
+    },
+    {
+        "country": "Morocco",
+        "count": "495,421"
+    },
+    {
+        "country": "Japan",
+        "count": "472,112"
+    },
+    {
+        "country": "Lebanon",
+        "count": "468,400"
+    },
+    {
+        "country": "UAE",
+        "count": "461,444"
+    },
+    {
+        "country": "Saudi Arabia",
+        "count": "390,007"
+    },
+    {
+        "country": "Slovakia",
+        "count": "361,185"
+    },
+    {
+        "country": "Panama",
+        "count": "354,604"
+    },
+    {
+        "country": "Malaysia",
+        "count": "345,500"
+    },
+    {
+        "country": "Bulgaria",
+        "count": "338,426"
+    },
+    {
+        "country": "Ecuador",
+        "count": "328,755"
+    },
+    {
+        "country": "Belarus",
+        "count": "321,807"
+    },
+    {
+        "country": "Georgia",
+        "count": "281,761"
+    },
+    {
+        "country": "Nepal",
+        "count": "277,309"
+    },
+    {
+        "country": "Croatia",
+        "count": "271,632"
+    },
+    {
+        "country": "Bolivia",
+        "count": "271,419"
+    },
+    {
+        "country": "Greece",
+        "count": "263,689"
+    },
+    {
+        "country": "Azerbaijan",
+        "count": "261,713"
+    },
+    {
+        "country": "Dominican Republic",
+        "count": "252,727"
+    },
+    {
+        "country": "Tunisia",
+        "count": "252,171"
+    },
+    {
+        "country": "Kazakhstan",
+        "count": "244,981"
+    },
+    {
+        "country": "Palestine",
+        "count": "242,353"
+    },
+    {
+        "country": "Ireland",
+        "count": "235,854"
+    },
+    {
+        "country": "Kuwait",
+        "count": "230,821"
+    },
+    {
+        "country": "Denmark",
+        "count": "230,603"
+    },
+    {
+        "country": "Moldova",
+        "count": "228,370"
+    },
+    {
+        "country": "Costa Rica",
+        "count": "216,764"
+    },
+    {
+        "country": "Lithuania",
+        "count": "216,119"
+    },
+    {
+        "country": "Slovenia",
+        "count": "215,602"
+    },
+    {
+        "country": "Paraguay",
+        "count": "212,691"
+    },
+    {
+        "country": "Ethiopia",
+        "count": "204,521"
+    },
+    {
+        "country": "Egypt",
+        "count": "201,432"
+    },
+    {
+        "country": "Guatemala",
+        "count": "193,834"
+    },
+    {
+        "country": "Armenia",
+        "count": "192,639"
+    },
+    {
+        "country": "Honduras",
+        "count": "188,514"
+    },
+    {
+        "country": "Qatar",
+        "count": "179,964"
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "count": "169,626"
+    },
+    {
+        "country": "Nigeria",
+        "count": "162,762"
+    },
+    {
+        "country": "Oman",
+        "count": "159,218"
+    },
+    {
+        "country": "Venezuela",
+        "count": "159,149"
+    },
+    {
+        "country": "Libya",
+        "count": "158,957"
+    },
+    {
+        "country": "Bahrain",
+        "count": "143,574"
+    },
+    {
+        "country": "Myanmar",
+        "count": "142,434"
+    },
+    {
+        "country": "Kenya",
+        "count": "132,646"
+    },
+    {
+        "country": "North Macedonia",
+        "count": "128,511"
+    },
+    {
+        "country": "Albania",
+        "count": "124,723"
+    },
+    {
+        "country": "Algeria",
+        "count": "117,061"
+    },
+    {
+        "country": "Estonia",
+        "count": "106,424"
+    },
+    {
+        "country": "S. Korea",
+        "count": "103,088"
+    },
+    {
+        "country": "Uruguay",
+        "count": "102,461"
+    },
+    {
+        "country": "Latvia",
+        "count": "102,363"
+    },
+    {
+        "country": "Norway",
+        "count": "95,695"
+    },
+    {
+        "country": "Sri Lanka",
+        "count": "92,442"
+    },
+    {
+        "country": "Montenegro",
+        "count": "91,218"
+    },
+    {
+        "country": "Ghana",
+        "count": "90,552"
+    },
+    {
+        "country": "Zambia",
+        "count": "88,418"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "count": "88,374"
+    },
+    {
+        "country": "Uzbekistan",
+        "count": "82,869"
+    },
+    {
+        "country": "Finland",
+        "count": "77,452"
+    },
+    {
+        "country": "Cuba",
+        "count": "75,263"
+    },
+    {
+        "country": "Mozambique",
+        "count": "67,466"
+    },
+    {
+        "country": "El Salvador",
+        "count": "64,431"
+    },
+    {
+        "country": "Luxembourg",
+        "count": "61,642"
+    },
+    {
+        "country": "Singapore",
+        "count": "60,381"
+    },
+    {
+        "country": "Afghanistan",
+        "count": "56,517"
+    },
+    {
+        "country": "Cameroon",
+        "count": "47,669"
+    },
+    {
+        "country": "Cyprus",
+        "count": "45,430"
+    },
+    {
+        "country": "Namibia",
+        "count": "44,051"
+    },
+    {
+        "country": "Ivory Coast",
+        "count": "43,542"
+    },
+    {
+        "country": "Uganda",
+        "count": "40,867"
+    },
+    {
+        "country": "Botswana",
+        "count": "39,848"
+    },
+    {
+        "country": "Jamaica",
+        "count": "39,237"
+    },
+    {
+        "country": "Senegal",
+        "count": "38,705"
+    },
+    {
+        "country": "Zimbabwe",
+        "count": "36,858"
+    },
+    {
+        "country": "Malawi",
+        "count": "33,525"
+    },
+    {
+        "country": "Sudan",
+        "count": "30,111"
+    },
+    {
+        "country": "Australia",
+        "count": "29,304"
+    },
+    {
+        "country": "Malta",
+        "count": "29,033"
+    },
+    {
+        "country": "Thailand",
+        "count": "28,863"
+    },
+    {
+        "country": "DRC",
+        "count": "28,142"
+    },
+    {
+        "country": "Madagascar",
+        "count": "24,426"
+    },
+    {
+        "country": "Maldives",
+        "count": "23,838"
+    },
+    {
+        "country": "Angola",
+        "count": "22,182"
+    },
+    {
+        "country": "Rwanda",
+        "count": "21,645"
+    },
+    {
+        "country": "Guinea",
+        "count": "19,908"
+    },
+    {
+        "country": "Mayotte",
+        "count": "19,408"
+    },
+    {
+        "country": "Gabon",
+        "count": "19,140"
+    },
+    {
+        "country": "Syria",
+        "count": "18,775"
+    },
+    {
+        "country": "French Polynesia",
+        "count": "18,622"
+    },
+    {
+        "country": "Mauritania",
+        "count": "17,824"
+    },
+    {
+        "country": "Eswatini",
+        "count": "17,333"
+    },
+    {
+        "country": "Cabo Verde",
+        "count": "17,279"
+    },
+    {
+        "country": "French Guiana",
+        "count": "16,922"
+    },
+    {
+        "country": "Réunion",
+        "count": "16,586"
+    },
+    {
+        "country": "Tajikistan",
+        "count": "13,308"
+    },
+    {
+        "country": "Haiti",
+        "count": "12,760"
+    },
+    {
+        "country": "Burkina Faso",
+        "count": "12,717"
+    },
+    {
+        "country": "Belize",
+        "count": "12,415"
+    },
+    {
+        "country": "Andorra",
+        "count": "12,010"
+    },
+    {
+        "country": "Hong Kong",
+        "count": "11,468"
+    },
+    {
+        "country": "Guadeloupe",
+        "count": "11,298"
+    },
+    {
+        "country": "Somalia",
+        "count": "11,292"
+    },
+    {
+        "country": "Lesotho",
+        "count": "10,706"
+    },
+    {
+        "country": "Togo",
+        "count": "10,249"
+    },
+    {
+        "country": "Guyana",
+        "count": "10,192"
+    },
+    {
+        "country": "South Sudan",
+        "count": "10,165"
+    },
+    {
+        "country": "Mali",
+        "count": "9,998"
+    },
+    {
+        "country": "Congo",
+        "count": "9,681"
+    },
+    {
+        "country": "Aruba",
+        "count": "9,374"
+    },
+    {
+        "country": "Bahamas",
+        "count": "9,119"
+    },
+    {
+        "country": "Suriname",
+        "count": "9,109"
+    },
+    {
+        "country": "Mongolia",
+        "count": "8,447"
+    },
+    {
+        "country": "Martinique",
+        "count": "8,304"
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "count": "8,004"
+    },
+    {
+        "country": "Djibouti",
+        "count": "8,002"
+    },
+    {
+        "country": "Curaçao",
+        "count": "7,898"
+    },
+    {
+        "country": "Benin",
+        "count": "7,100"
+    },
+    {
+        "country": "Equatorial Guinea",
+        "count": "6,914"
+    },
+    {
+        "country": "Nicaragua",
+        "count": "6,677"
+    },
+    {
+        "country": "Iceland",
+        "count": "6,205"
+    },
+    {
+        "country": "Papua New Guinea",
+        "count": "5,991"
+    },
+    {
+        "country": "Gambia",
+        "count": "5,447"
+    },
+    {
+        "country": "CAR",
+        "count": "5,161"
+    },
+    {
+        "country": "Niger",
+        "count": "5,001"
+    },
+    {
+        "country": "San Marino",
+        "count": "4,730"
+    },
+    {
+        "country": "Chad",
+        "count": "4,523"
+    },
+    {
+        "country": "Yemen",
+        "count": "4,357"
+    },
+    {
+        "country": "Gibraltar",
+        "count": "4,274"
+    },
+    {
+        "country": "Saint Lucia",
+        "count": "4,238"
+    },
+    {
+        "country": "Seychelles",
+        "count": "4,135"
+    },
+    {
+        "country": "Channel Islands",
+        "count": "4,049"
+    },
+    {
+        "country": "Sierra Leone",
+        "count": "3,970"
+    },
+    {
+        "country": "Comoros",
+        "count": "3,696"
+    },
+    {
+        "country": "Guinea-Bissau",
+        "count": "3,647"
+    },
+    {
+        "country": "Barbados",
+        "count": "3,642"
+    },
+    {
+        "country": "Eritrea",
+        "count": "3,279"
+    },
+    {
+        "country": "Burundi",
+        "count": "2,757"
+    },
+    {
+        "country": "Liechtenstein",
+        "count": "2,670"
+    },
+    {
+        "country": "Vietnam",
+        "count": "2,603"
+    },
+    {
+        "country": "New Zealand",
+        "count": "2,497"
+    },
+    {
+        "country": "Cambodia",
+        "count": "2,440"
+    },
+    {
+        "country": "Turks and Caicos",
+        "count": "2,329"
+    },
+    {
+        "country": "Monaco",
+        "count": "2,282"
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "count": "2,221"
+    },
+    {
+        "country": "Sint Maarten",
+        "count": "2,134"
+    },
+    {
+        "country": "Liberia",
+        "count": "2,042"
+    },
+    {
+        "country": "St. Vincent Grenadines",
+        "count": "1,748"
+    },
+    {
+        "country": "Saint Martin",
+        "count": "1,619"
+    },
+    {
+        "country": "Isle of Man",
+        "count": "1,567"
+    },
+    {
+        "country": "Caribbean Netherlands",
+        "count": "1,368"
+    },
+    {
+        "country": "Bermuda",
+        "count": "1,157"
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "count": "1,136"
+    },
+    {
+        "country": "Taiwan",
+        "count": "1,030"
+    },
+    {
+        "country": "Mauritius",
+        "count": "1,024"
+    },
+    {
+        "country": "Bhutan",
+        "count": "873"
+    },
+    {
+        "country": "St. Barth",
+        "count": "775"
+    },
+    {
+        "country": "Faeroe Islands",
+        "count": "661"
+    },
+    {
+        "country": "Timor-Leste",
+        "count": "604"
+    },
+    {
+        "country": "Tanzania",
+        "count": "509"
+    },
+    {
+        "country": "Cayman Islands",
+        "count": "499"
+    },
+    {
+        "country": "Wallis and Futuna",
+        "count": "403"
+    },
+    {
+        "country": "Brunei ",
+        "count": "210"
+    },
+    {
+        "country": "Dominica",
+        "count": "161"
+    },
+    {
+        "country": "Grenada",
+        "count": "155"
+    },
+    {
+        "country": "British Virgin Islands",
+        "count": "153"
+    },
+    {
+        "country": "New Caledonia",
+        "count": "121"
+    },
+    {
+        "country": "Fiji",
+        "count": "67"
+    },
+    {
+        "country": "Falkland Islands",
+        "count": "54"
+    },
+    {
+        "country": "Laos",
+        "count": "49"
+    },
+    {
+        "country": "Macao",
+        "count": "48"
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "count": "44"
+    },
+    {
+        "country": "Greenland",
+        "count": "31"
+    },
+    {
+        "country": "Vatican City",
+        "count": "27"
+    },
+    {
+        "country": "Anguilla",
+        "count": "25"
+    },
+    {
+        "country": "Saint Pierre Miquelon",
+        "count": "24"
+    },
+    {
+        "country": "Montserrat",
+        "count": "20"
+    },
+    {
+        "country": "Solomon Islands",
+        "count": "19"
+    },
+    {
+        "country": "Western Sahara",
+        "count": "10"
+    },
+    {
+        "country": "Marshall Islands",
+        "count": "4"
+    },
+    {
+        "country": "Samoa",
+        "count": "3"
+    },
+    {
+        "country": "Vanuatu",
+        "count": "3"
+    },
+    {
+        "country": "Micronesia",
+        "count": "1"
+    },
+    {
+        "country": "China",
+        "count": "90,201"
+    }
+]
